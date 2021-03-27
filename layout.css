@@ -1,0 +1,32 @@
+body,html{
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100%;
+}
+
+#main{
+   width:70%;
+  height:50%;
+  margin:30px auto;
+}
+#example{
+  width:70%;
+  height:50%;
+  margin:30px auto;
+}
+#biao{
+    width:70%;
+   //height:50%;
+   margin:30px auto;
+
+}
+table{
+  
+}
+thead{
+  backgroungcolor:'#(242,242,242)';
+}
+.layui-markdown{border: 1px solid #e2e2e2;}
+.layui-markdown-tools{}
+.layui-markdown-text{}
